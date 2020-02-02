@@ -1,0 +1,94 @@
+<AddFiles directory="assets">
+
+	<!-- WEAPON PARTS -->
+	
+	<unit_npc	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545/wpn_fps_ass_ak_krink_545"/>
+	
+	<!-- DUMMY PARTS -->
+	
+	<unit_obj    path="units/mods/weapons/wpn_fps_ass_ak_krink_545_shared_pts/wpn_fps_ass_ak_krink_545_ba_dummy"/>
+	
+	<!-- AK-74 PARTS -->
+	
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/aks74u_main_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/aks74u_handguard_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/aks74u_stock_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/aks74u_pistol_grip_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/aks74u_dust_cover_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/aks74u_bolt_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/aks74u_muzzle_brake_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_ba_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_bo_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_dc_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_fsl_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_gb_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_gt_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_lfhgr_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_ufhgr_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_urhgr_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_hm_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_lhg_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_uhg_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_mr_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_md_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_pg_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_fo_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_ro_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_rsb_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_rcs_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_re_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_st_uf_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_st_f_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_str_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_tr_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_trg_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_ftru_aks74u"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_rtru_aks74u"/>
+
+	<!-- MAG PARTS -->
+	
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/mag_bake_30_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/mag_poly_30_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/mag_poly_10_std"/>
+	<df_nm 	 	 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/mag_steel_30_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_bake_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_plum_30"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_poly_10"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_steel_30"/>
+	
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_poly_30"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_poly_30_thq"/>
+	
+	<!-- COMPATIBILITY PARTS -->
+	
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_aks74u"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_ak_all_akm_pts/wpn_fps_ass_ak_all_pg_akm_aks74u_thq"/>
+	
+	<!-- MOUNT PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_krink_545_shared_pts/tula_optic_mount_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_krink_545_shared_pts/wpn_fps_ass_ak_krink_545_om_tula"/>
+	
+	<!-- ICONS -->
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/ak_krink_545"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_krink_545_m_steel_30"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_krink_545_m_poly_10"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_krink_545_m_poly_30"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_uhg_aks74u"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_aks74u"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_st_aks74u"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_krink_545_clr_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_krink_545_dc_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_krink_545_lhg_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_krink_545_uhg_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_krink_545_md_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_krink_545_st_no"/>
+
+</AddFiles>

@@ -1,0 +1,19 @@
+<table>
+
+	<Sounds directory="assets\sounds">
+		<sound id="aks74u_fire_single" path="aks74u_fire_auto.ogg" prefix="regular"/>
+		<sound id="aks74u_fire_single" path="aks74u_fire_sup.ogg"  prefix="suppressed_a"/>
+		<sound id="aks74u_fire_single" path="aks74u_fire_sup.ogg"  prefix="suppressed_b"/>
+		<sound id="aks74u_fire_single" path="aks74u_fire_sup.ogg"  prefix="suppressed_c"/>
+		<sound id="aks74u_fire_single" path="aks74u_pr_fire.ogg"   prefix="regular_b"/>
+		<sound id="wp_heffy_545_mag_out" path="wp_heffy_545_mag_out.ogg" prefix="first"/>
+		<sound id="wp_heffy_545_mag_out" path="wp_heffy_545_mag_out.ogg" prefix="third"/>
+		<sound id="wp_heffy_545_mag_in" path="wp_heffy_545_mag_in.ogg" prefix="first"/>
+		<sound id="wp_heffy_545_mag_in" path="wp_heffy_545_mag_in.ogg" prefix="third"/>
+		<sound id="wp_heffy_545_cock_pull" path="wp_heffy_545_cock_pull.ogg" prefix="first"/>
+		<sound id="wp_heffy_545_cock_pull" path="wp_heffy_545_cock_pull.ogg" prefix="third"/>
+		<sound id="wp_heffy_545_cock_release" path="wp_heffy_545_cock_release.ogg" prefix="first"/>
+		<sound id="wp_heffy_545_cock_release" path="wp_heffy_545_cock_release.ogg" prefix="third"/>
+	</Sounds>	
+	
+</table>

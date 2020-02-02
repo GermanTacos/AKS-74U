@@ -1,0 +1,6 @@
+<unit type="wpn" slot="1">
+	<object file="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_st_uf_aks74u" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+	</extensions>
+</unit>
