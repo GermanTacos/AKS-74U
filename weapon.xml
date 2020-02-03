@@ -8,6 +8,7 @@
 					<value_node value="1.5"/>
 					<value_node value="4.0"/>
 			</AMMO_PICKUP>
+			<use_data selection_index="1"/>
 			<timers reload_not_empty="2.3" reload_empty="3.4" unequip="0.5" equip="0.7"/>
 			<sounds fire="aks74u_fire_single" fire_single="aks74u_fire_single" fire_auto="aks74u_fire_single" use_fix="true"> 
 				<reload wp_flint_mag_out="wp_heffy_545_mag_out" wp_flint_mag_in="wp_heffy_545_mag_in" wp_flint_cock_pull="wp_heffy_545_cock_pull" wp_flint_cock_release="wp_heffy_545_cock_release"/>
