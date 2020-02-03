@@ -133,23 +133,33 @@
 	
 	<WeaponMod id="wpn_fps_ass_ak_all_lhg_aks74u"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="handguard_lower" 				 unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_lhg_aks74u"  	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
 		<weapons>
-			<value_node value="wpn_fps_ass_ak_stamp_762"/>
-			<value_node value="wpn_fps_ass_ak_stamp_556"/>
+			<!-- <value_node value="wpn_fps_ass_ak_stamp_762"/> -->
+			<!-- <value_node value="wpn_fps_ass_ak_stamp_556"/> -->
 		</weapons>
 		<pcs/>
 	</WeaponMod>
 	
 	<WeaponMod id="wpn_fps_ass_ak_all_uhg_aks74u"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="handguard_upper"				 unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_uhg_aks74u"  	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
 		<weapons>
-			<value_node value="wpn_fps_ass_ak_stamp_762"/>
-			<value_node value="wpn_fps_ass_ak_stamp_556"/>
+			<!-- <value_node value="wpn_fps_ass_ak_stamp_762"/> -->
+			<!-- <value_node value="wpn_fps_ass_ak_stamp_556"/> -->
 		</weapons>
 		<pcs/>
 	</WeaponMod>
 	
-	<WeaponMod id="wpn_fps_ass_ak_all_st_aks74u"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="stock" 						 unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_st_aks74u"   	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+	<WeaponMod id="wpn_fps_ass_ak_all_st_uf_aks74u"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="stock" 						 unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_st_uf_aks74u"   	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
+		<requires>
+			<value_node value="wpn_fps_ass_ak_stamp_762_re_ak103"/>
+			<value_node value="wpn_fps_ass_ak_stamp_762_re_ak104"/>
+			<value_node value="wpn_fps_ass_ak_stamp_545_re_ak74m"/>
+			<value_node value="wpn_fps_ass_ak_stamp_545_re_aks74"/>
+			<value_node value="wpn_fps_ass_ak_stamp_545_re_ak105"/>
+			<value_node value="wpn_fps_ass_ak_stamp_556_re_ak101"/>
+			<value_node value="wpn_fps_ass_ak_stamp_556_re_ak102"/>
+		</requires>
 		<weapons>
 			<value_node value="wpn_fps_ass_ak_stamp_762"/>
+			<value_node value="wpn_fps_ass_ak_stamp_545"/>
 			<value_node value="wpn_fps_ass_ak_stamp_556"/>
 		</weapons>
 		<pcs/>
