@@ -12,6 +12,14 @@ Hooks:PostHook( WeaponTweakData, "init", "AKS74UInit", function(self)
 	-- }
 -- end
 
+--- Category ---
+
+if BeardLib.Utils:FindMod("Custom Categories for custom weapons") then
+	self.ak_krink_545.categories = {"assault_rifle"}
+else
+	self.ak_krink_545.categories = {"smg"}
+end
+
 if ( self.ak_krink_545 ) then
 	
 	self:SetupAttachmentPoint("ak_krink_545", {
