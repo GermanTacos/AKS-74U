@@ -68,16 +68,17 @@
 	
 	<!-- MAGAZINES -->
 	
-	<WeaponMod id="wpn_fps_ass_ak_krink_545_m_bake_30"  based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_bake_30"  texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_ass_ak_krink_545_m_plum_30"  based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_plum_30"  texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false">
+		<texture_variants>
+			<plum name_id="bm_w_paint_m_poly" material_config="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_poly_30"/>
+		</texture_variants>
+	</WeaponMod>
 	
 	<WeaponMod id="wpn_fps_ass_ak_krink_545_m_steel_30" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_steel_30" texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
 		<pcs/>
 	</WeaponMod>
 	
-	<WeaponMod id="wpn_fps_ass_ak_krink_545_m_plum_30" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_plum_30" texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
-		<texture_variants>
-			<plum name_id="bm_w_paint_m_poly" material_config="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_poly_30"/>
-		</texture_variants>
+	<WeaponMod id="wpn_fps_ass_ak_krink_545_m_bake_30" based_on="wpn_fps_ass_flint_m_standard" type="magazine" unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_mag_pts/wpn_fps_ass_ak_krink_545_m_bake_30" texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="true">
 		<pcs/>
 	</WeaponMod>
 	

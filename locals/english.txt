@@ -56,6 +56,7 @@
 	"bm_wp_wpn_fps_ass_ak_all_st_uf_aks74u" : "AKS-74U Stock",
 	
 	"bm_wp_wpn_fps_ass_ak_krink_545_m_plum_30"  : "30 Round Plum Polymer Magazine",
+	"bm_wp_wpn_fps_ass_ak_krink_545_m_bake_30"  : "30 Round Bakelite Magazine",
 	"bm_wp_wpn_fps_ass_ak_krink_545_m_poly_10"  : "10 Round Polymer Saiga Magazine",
 	"bm_wp_wpn_fps_ass_ak_krink_545_m_steel_30" : "30 Round Steel Magazine",
 	
