@@ -17,7 +17,7 @@ if ( self.ak_krink_545 ) then
 	self:SetupAttachmentPoint("ak_krink_545", {
 		name = "a_ns", 
         base_a_obj = "a_ns", 
-        position = Vector3( 0, 1.9, -0.1 ), 
+        position = Vector3( 0, -20.295, -0.1 ), 
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	
