@@ -34,7 +34,7 @@
 	
 	<WeaponMod id="wpn_fps_ass_ak_krink_545_re_aks74u"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="receiver" 						unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_re_aks74u"   	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
 	
-	<WeaponMod id="wpn_fps_ass_ak_krink_545_ro_aks74u"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="sight_rear" 					unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_ro_aks74u"   	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
+	<WeaponMod id="wpn_fps_ass_ak_krink_545_ro_aks74u"    based_on="wpn_fps_ass_flint_body_upperreceiver" type="sight_rear" 					unit="units/payday2/weapons/wpn_upg_dummy/wpn_upg_dummy"   	 										 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
 	
 	<WeaponMod id="wpn_fps_ass_ak_krink_545_rsb_aks74u"   based_on="wpn_fps_ass_flint_body_upperreceiver" type="sight_block_rear" 				unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_rsb_aks74u"  	 texture_bundle_folder="mods" drop="false" global_value="ak_pack_2" is_a_unlockable="false"/>
 	
@@ -64,6 +64,9 @@
 		<stance_mod>
 			<wpn_fps_ass_ak_krink_545 rotation="-0.00261799 -1.14231e-006 -0.000436331 -0.999996" translation="0 -5 0.1"/>
 		</stance_mod>
+		<override>
+			<wpn_fps_ass_ak_krink_545_ro_aks74u unit="units/mods/weapons/wpn_fps_ass_ak_krink_545_aks74u_pts/wpn_fps_ass_ak_krink_545_ro_aks74u"/>
+		</override>
 	</WeaponMod>
 	
 	<!-- MAGAZINES -->

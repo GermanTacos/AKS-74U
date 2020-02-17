@@ -96,8 +96,7 @@ end
 --=========================--
 
 for id, st_id in pairs (all_ar15stock) do
-	self.wpn_fps_ass_ak_krink_545.override[st_id] = {depends_on = "stock_adapter"}
-	self.wpn_fps_ass_ak_krink_545.override[st_id] = {a_obj = "a_s_ar15"}
+	self.wpn_fps_ass_ak_krink_545.override[st_id] = {depends_on = "stock_adapter",a_obj = "a_s_ar15"}
 end
 
 --=========================--
