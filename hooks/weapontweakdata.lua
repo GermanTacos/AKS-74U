@@ -32,7 +32,7 @@ if ( self.ak_krink_545 ) then
 	self:SetupAttachmentPoint("ak_krink_545", {
 		name = "a_fl", 
         base_a_obj = "a_fl", 
-        position = Vector3( -0.75, -2, -1.5 ), 
+		position = Vector3( -0.75, -5, -1 ), 
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	
@@ -40,6 +40,13 @@ if ( self.ak_krink_545 ) then
 		name = "a_o", 
         base_a_obj = "a_o", 
         position = Vector3( 0, -6, -0.5 ), 
+        rotation = Rotation( 0, 0, 0 ) 
+	})
+	
+	self:SetupAttachmentPoint("ak_krink_545", {
+		name = "a_o_xrsuo", 
+        base_a_obj = "a_o", 
+        position = Vector3( 0, -6, 0.5 ), 
         rotation = Rotation( 0, 0, 0 ) 
 	})
 	
